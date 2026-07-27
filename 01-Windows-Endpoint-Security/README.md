@@ -36,3 +36,15 @@ This project documents a practical investigation of Windows endpoint security co
 ## Outcome
 
 This project strengthened my understanding of Windows endpoint security and how analysts investigate Windows systems.
+
+## Key Findings
+
+- Reviewed Windows Defender security settings and endpoint protections.
+- Examined Windows Event Viewer to identify security-related logs.
+- Used PowerShell and Command Prompt to inspect system information.
+- Reviewed running processes using Task Manager.
+- Documented observations following a structured investigation process.
+
+## Reflection
+
+This investigation improved my understanding of Windows endpoint security, log analysis and the importance of structured documentation during security investigations. The practical experience strengthened my confidence using native Windows security tools commonly encountered in Security Operations Centre (SOC) environments.
