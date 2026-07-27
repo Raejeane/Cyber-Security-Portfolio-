@@ -19,14 +19,20 @@ This portfolio showcases practical cyber security investigations, technical asse
 
 ## Current Projects
 
-- Windows Endpoint Security Investigation
-- Linux System Security Assessment
+- Windows Endpoint Security
+- Linux Security
+- Network Analysis
+- Web Application Security
+- Security Operations Centre (SOC)
+- Threat Detection
+- Vulnerability Management
+- Phishing Analysis
+- Incident Response
+- Digital Forensics-
+
+  
 - Active Directory Security Administration
-- Network Traffic Analysis
-- Phishing Incident Investigation
 - SIEM Alert Investigation
-- Vulnerability Assessment
-- Web Application Security Assessment
 - Python Security Automation
 - Business Security Assessment
 
