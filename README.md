@@ -6,15 +6,26 @@ This portfolio showcases practical cyber security investigations, technical asse
 
 ## Areas of Expertise
 
-- Windows Security
+-## Areas of Expertise
+
+- Security Operations (SOC)
+- Windows Endpoint Security
 - Linux Security
-- Active Directory
 - Network Traffic Analysis
-- SIEM & Log Analysis
-- Phishing Investigation
-- Vulnerability Management
-- Python Security Automation
 - Web Application Security
+- Threat Detection
+- Vulnerability Management
+- Incident Response
+- Digital Forensics
+- Phishing Analysis
+- Security Monitoring
+- Log Analysis
+- Risk Assessment
+- PowerShell
+- Python (Security automation)
+- Security Documentation- Windows Security
+- Active Directory
+- SIEM & Log Analysis
 - Business Security Assessment
 
 ## Current Projects
