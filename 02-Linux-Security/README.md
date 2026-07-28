@@ -69,4 +69,7 @@ Secure Linux administration reduces operational risk, strengthens system securit
 
 ## Screenshots
 
-To be added.
+Secure Remote Access Linux SSH
+Process Monitoring
+Maintaining Logs
+Package Management
